@@ -11,3 +11,8 @@ intended execution :
 
 Im too lazy to run 3 commands when i test my code, so i made this.
 (thats not really what the lazyness is)
+
+
+### Next step ?
+
+The next step is to add header source file support

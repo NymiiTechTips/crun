@@ -1,7 +1,9 @@
 # CRun a C runner for quick tests
 
 usage exemple : 
-```crun main.c``` 
+```crun exemple/helloworld.c``` 
+
+<img src="doc/image.png">
 
 intended execution :
 
